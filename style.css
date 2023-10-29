@@ -141,7 +141,12 @@ margin-bottom: 10px;}
 .container .box{
     grid-column: unset !important;
     grid-row: unset !important;
-
-
 }
+h1 {
+    font-size: 2rem;
+   
+}
+.brain{
+
+    width: 250px;}    
 }
